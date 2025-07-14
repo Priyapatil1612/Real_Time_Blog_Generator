@@ -13,15 +13,15 @@ To demonstrate how **Large Language Models (LLMs)** can be integrated into a clo
 ## 🏗️ Architecture Overview
 
 [Client / API Caller]
-↓
+→
 [API Gateway]
-↓
+→
 [AWS Lambda]
-↓
+→
 [Amazon Bedrock (LLaMA 3)]
-↓
+→
 [Generated Blog Text]
-↓
+→
 [Amazon S3]
 
 
