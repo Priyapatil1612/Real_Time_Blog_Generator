@@ -1,4 +1,4 @@
-# 📝 Serverless Blog Generator with Amazon Bedrock (LLaMA 3)
+# 📝 Real Time Blog Generator
 
 This project is a fully serverless blog generation system powered by **Amazon Bedrock** and the **LLaMA 3 70B Instruct** model. Users can input a topic via a REST API, and the system generates a ~200-word blog using generative AI. The resulting blog is automatically saved to **Amazon S3**.
 
