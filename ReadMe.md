@@ -45,6 +45,7 @@ To demonstrate how **Large Language Models (LLMs)** can be integrated into a clo
 
 ## 📁 Folder Structure
 
+```
 blog-generator/
 ├── app.py # Lambda function with Bedrock + S3 logic
 ├── requirements.txt # Python dependencies for local testing
@@ -53,6 +54,7 @@ blog-generator/
 
 
 ---
+```
 
 ## ⚙️ How It Works
 
